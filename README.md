@@ -1,8 +1,8 @@
-                                          FINAL PROJECT BACKEND PROGRAMMING
-===========================================================================================================
+FINAL PROJECT BACKEND PROGRAMMING
+===========================================================
 
                                           
-                               Final Project UTS Membangun Restfull Api Covid Menggunakan Eloquent Relationship
+Final Project UTS Membangun Restfull Api Covid Menggunakan Eloquent Relationship
 
 Nama      : Zhafia Rabbani Amalia
 NIM       : 0110220219
